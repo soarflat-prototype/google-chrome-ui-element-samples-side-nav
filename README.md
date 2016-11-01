@@ -3,7 +3,9 @@
 https://github.com/GoogleChrome/ui-element-samples/blob/gh-pages/side-nav/index.html
 
 ## 概要
-https://www.youtube.com/watch?v=thNyy5eYfbc&app=desktopで紹介されていたパフォーマンスを考慮したサイドバー
+https://www.youtube.com/watch?v=thNyy5eYfbc&app=desktop
+
+で紹介されていた、パフォーマンスを考慮したサイドバー。
 
 ## 特徴
 - 要素の移動にはtransformを利用する。
